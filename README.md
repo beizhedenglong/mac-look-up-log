@@ -1,6 +1,6 @@
 # Look Up Log Workflow
 
-This is an look up workflow for macOS. It will record word you look up and append it to `words.txt` on your desktop.
+This is a look up workflow for macOS. It will record word you look up and append it to `words.txt` on your desktop.
 
 ## Usage
 1. Download `look up log.workflow` then double click it to install.
